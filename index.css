@@ -1,0 +1,28 @@
+html {
+  font-family: 'Bebas Neue', cursive;
+}
+
+.contactCard {
+  text-align: center;
+  border: 1px solid black;
+  height: 300px;
+  width: 300px;
+  margin: 100px auto auto auto;
+}
+
+label {
+  padding: 5px 0;
+  margin: 10px 0 10px 0;
+}
+
+input {
+  margin: 10px;
+}
+
+.emailLabel {
+  margin-left: 20px;
+}
+
+.emailBox {
+  margin-left: 16px;
+}
